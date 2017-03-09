@@ -1,0 +1,3 @@
+[submodule "julia-docker"]
+	path = julia-docker
+	url = https://github.com/staticfloat/julia-docker.git
